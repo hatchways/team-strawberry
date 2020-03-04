@@ -1,0 +1,13 @@
+.tag-form {
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 15px;
+}
+
+.tag-form > input {
+    border: 0;
+    width: 100%;
+    border-bottom: solid 1px grey;
+    outline: none;
+    margin-left: 2rem;
+}

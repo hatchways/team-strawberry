@@ -1,0 +1,67 @@
+.student-card {
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding-left: 2rem;
+}
+
+.student-card p {
+    color: grey;
+    text-align: justify;
+}
+
+
+.expand-button {
+    position: absolute;
+    right: 15px;
+    padding-top: 15px;
+}
+
+.button {
+    background-color: inherit;
+    border: 0;
+}
+
+.button>i {
+    font-size: 1.5rem;
+    color: grey;
+}
+
+
+.student-avatar {
+    width: 120px;
+    height: 120px;
+    border: solid 1px black;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+.student-main {
+    line-height: 0.8;
+    font-size: 1.5em;
+    position: relative;
+}
+
+.student-main>.student-name {
+    text-transform: capitalize;
+    color: black;
+    font-weight: 600;
+}
+
+.student-description {
+    padding-left: 2rem;
+}
+
+.tag {
+    color: black;
+    background-color: gainsboro;
+    border-radius: 7px;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.grades {
+    padding-left: 2rem;
+    line-height: 0.2;
+}
