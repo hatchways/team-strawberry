@@ -40,8 +40,3 @@ app.get("/posts", cacheMiddleware, (req, res) => {
 app.listen(port, () => {
   console.log(`Listening to requests on http://localhost:${port}`);
 });
-
-// What are good parts of the code?
-// What are bad parts of the code?
-// How could the caching be better? How does the caching work right now?
-// How could it be more efficient?
