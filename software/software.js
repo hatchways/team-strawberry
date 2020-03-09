@@ -10,7 +10,7 @@ const comments = [
 
 const printComments = (comments, parent = null, tab = "") => {
   for (var i = 0; i < comments.length; i++) {
-    comment = comments[i];
+    const comment = comments[i];
     if (comment.parent == parent) {
       console.log(tab + comment.body);
       printComments(comments, comment.id, tab + "  ");
