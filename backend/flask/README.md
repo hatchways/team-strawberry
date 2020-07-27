@@ -16,7 +16,7 @@ This is the backend assessment. For the full instructions, you can see them here
 - This submission is functional
 
 - Generally, we mark assessments using this [rubric](https://drive.google.com/file/d/1f0jiSVTTGtAn8XbHwHcTqPEU-BT4-q6x/view). There are 5 categories: Correctness, Code Organization, Readability & Maintainability, Code performance, Best practices and completion speed. You can ignore the completion speed.
-  - **Correctness**: This submission generally works in terms of functionality, but lack a couple of attention to details that is cruicial for a good frontend. What changes would you make?
+  - **Correctness**: This submission generally works in terms of functionality
   - **Code Organization, Readability & Maintainability**: Is this code readable? How easy was it to trace through the code? Anything you would suggest to improve it?
   - **Code performance (Efficiency, Data Structures & Algorithms)**: Anywhere you can spot in the code that could have been improved in terms of code performance?
   - **Best practices**: Look at the code and the framework. Are there any bad practices? If so, please point them out and provide suggestions and feedback
