@@ -16,3 +16,5 @@ This is the frontend assessment. For the full instructions, you can see them her
   - **Code Organization, Readability & Maintainability**: Is this code readable? How easy was it to trace through the code? Anything you would suggest to improve it?
   - **Code performance (Efficiency, Data Structures & Algorithms)**: Anywhere you can spot in the code that could have been improved in terms of code performance?
   - **Best practices**: Looking at the code, this is a React app. Are there any bad practices? If so, please point them out and provide suggestions and feedback
+- Create a new markdown document for note taking. We will evaluate your feedback/evaluation of this submission by seeing if you can identify areas of improvement based off of this code.
+- **Submission**: Submit your markdown document
