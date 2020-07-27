@@ -15,14 +15,10 @@ This is the backend assessment. For the full instructions, you can see them here
 
 - This submission is functional
 
-Answer the following questions:
-
-- Does this submission try to implement the bonus feature of caching? Why cache? How did this submission go about caching? Are there better ways of doing this?
-- What parts of the code do you like? What parts of the code do you dislike?
-- How can you make this more efficient?
-- How would you test this API?
-
-Submission:
-
-- Be specific with your feedback. If this feedback was shared with the submittor of this code, they should be able to identify where you are suggesting for improvements.
-- Create a new markdown document for note taking. We will evaluate your feedback/evaluation of this submission by seeing if you can identify areas of improvement based off of this code. Submit your markdown document
+- Generally, we mark assessments using this [rubric](https://drive.google.com/file/d/1f0jiSVTTGtAn8XbHwHcTqPEU-BT4-q6x/view). There are 5 categories: Correctness, Code Organization, Readability & Maintainability, Code performance, Best practices and completion speed. You can ignore the completion speed.
+  - **Correctness**: This submission generally works in terms of functionality, but lack a couple of attention to details that is cruicial for a good frontend. What changes would you make?
+  - **Code Organization, Readability & Maintainability**: Is this code readable? How easy was it to trace through the code? Anything you would suggest to improve it?
+  - **Code performance (Efficiency, Data Structures & Algorithms)**: Anywhere you can spot in the code that could have been improved in terms of code performance?
+  - **Best practices**: Look at the code and the framework. Are there any bad practices? If so, please point them out and provide suggestions and feedback
+- Create a new markdown document for note taking. We will evaluate your feedback/evaluation of this submission by seeing if you can identify areas of improvement based off of this code.
+- **Submission**: Submit your markdown document
