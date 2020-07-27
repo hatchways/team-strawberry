@@ -1,4 +1,6 @@
-# Frontend Assessment
+# Backend Assessment
+
+The objective of this assessment is to write a simple JSON API.
 
 ## Getting started
 
@@ -9,13 +11,16 @@
 
 You are acting as an evaluator and this is a incoming submission. **Your goal is to evaluate this submission to the best of your ability and provide feedback.**
 
-This is the backend assessment. For the full instructions, you can see them here: [instructions](https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/instructions/b-3/Back-end Assessment - Blog Posts-S7WK70UAN1EEOCZ4AOIC.pdf)
+This is the backend assessment. For the full instructions, you can see them here: [instructions](https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/instructions/b-3/Back-end%20Assessment%20-%20Blog%20Posts-S7WK70UAN1EEOCZ4AOIC.pdf)
+
+- This submission is functional
 
 Answer the following questions:
 
 - Does this submission try to implement the bonus feature of caching? Why cache? How did this submission go about caching? Are there better ways of doing this?
 - What parts of the code do you like? What parts of the code do you dislike?
 - How can you make this more efficient?
+- How would you test this API?
 
 Submission:
 
